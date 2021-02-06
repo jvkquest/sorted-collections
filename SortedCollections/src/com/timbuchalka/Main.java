@@ -12,6 +12,8 @@ import java.util.Map;
  * Contact author at:  http://timbuchalka.com
  * 
  */
+
+//Editing Main.java
 public class Main {
     private static StockList stockList = new StockList();
 
